@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=renzynx&theme=radical" alt="renzynx's streak"/>
+  <img src="https://github-readme-streak-stats-alpha-navy.vercel.app/?user=renzynx&theme=radical" alt="renzynx's streak"/>
 </div>
 
 ## 💼 Tech Stack
