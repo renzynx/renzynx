@@ -36,7 +36,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
 </div>
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=renzynx&color=blueviolet&style=flat-square" alt="Profile views"/>
