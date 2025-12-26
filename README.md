@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renzynx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzynx&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-stats-renzynx.vercel.app/api?username=renzynx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-renzynx.vercel.app/api/top-langs/?username=renzynx&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ## 🔥 Streak Stats
